@@ -1,1 +1,0 @@
-console.log("'Allo 'Allo!"),$(function(){$(window).resize(function(){$(".collage-images").height($(window).height())}),$(".collage-images").height($(window).height())});
